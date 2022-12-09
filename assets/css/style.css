@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #009CFF;
+    --primary: #3CC4CC;
     --secondary: #777777;
     --light: #F8F8F8;
     --dark: #252525;
@@ -10,6 +10,7 @@
     color: #3CC4CC;
     
 }
+
 
 .back-to-top {
     position: fixed;
@@ -83,7 +84,7 @@
 
 .navbar .navbar-nav .nav-link {
     margin-right: 30px;
-    padding: 20px 0;
+    padding: 10px 0;
     color: #FFFFFF;
     font-weight: 500;
     outline: none;
@@ -487,7 +488,7 @@
 }
 
 .footer .btn.btn-link:hover {
-    color: var(--primary);
+    color:#009CFF;
     letter-spacing: 1px;
     box-shadow: none;
 }
@@ -503,5 +504,19 @@
 }
 
 .footer .copyright a:hover {
-    color: var(--primary);
+    color: #009CFF;
+}
+
+/*** Project ***/
+.project2 .nav .nav-link {
+    background: var(--light);
+    transition: .5s;
+}
+
+.project2 .nav .nav-link.active {
+    background: var(--primary);
+}
+
+.project2 .nav .nav-link.active h3 {
+    color: #FFFFFF !important;
 }

@@ -21,7 +21,7 @@
                     <div class="carousel-caption">
                         <div class="p-3" style="max-width: 900px;">
                             <h4 class="text-white text-uppercase mb-0 animated zoomIn">Welcome To </h4>
-                            <h1 class="display-1 text-white mb-0 animated zoomIn">ONFY</h1>
+                            <h1 class=" text-white mb-0 animated zoomIn" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">ONFY</h1>
                             <h4 class="text-white text-uppercase mb-4 animated zoomIn">We Are A Task Fulfilment Platform </h4>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
 
 
     <!-- Service Start -->
-    <div class="container-xxl py-5">
+    <div class="container-xxl py-3">
         <div class="container">
 
 
@@ -239,7 +239,7 @@
 
 
 
-    <div class="container-xxl py-5">
+    <div class="container-xxl py-3">
         <div class="container">
 
 
@@ -309,7 +309,7 @@
 
     <!-- mobile section start -->
     
-    <div class="container text-center mt-5">
+    <div class="container text-center mt-4">
         <div class="row">
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                 <img src="assets/img/apponfy.png" class="img-fluid" alt="ONFY app">
@@ -337,8 +337,199 @@
 
 
 
+<!-- service start -->
+
+        <div class="container-xxl project2 py-3">
+            <div class="container">
+                <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.3s" style="max-width: 600px;">
+                    <h6 class="section-title bg-white text-center maincolor px-3">Our Services</h6>
+                    <h2 class="display-6 mb-4">Services We Offer</h2>
+                </div>
+
+                <!-- left align -->
+
+                <div class="row g-4 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="col-lg-5">
+                    <div class="nav nav-pills d-flex justify-content-between ">
+                        <button class="nav-link w-100 d-flex align-items-center text-start newcolor p-4 mb-4 active" data-bs-toggle="pill" data-bs-target="#tab-pane-1" type="button" >
+                            <h4 class="m-0">01. Offline and Online Marketing</h4>
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-2" type="button">
+                            <h4 class="m-0">02. Customer Acquisition</h4>
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-3" type="button">
+                            <h4 class="m-0">03. Offline Branding</h4>
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-4" type="button">
+                            <h4 class="m-0">04. Brand Awareness</h4>
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-0" data-bs-toggle="pill" data-bs-target="#tab-pane-5" type="button">
+                            <h4 class="m-0">05. Lead Generation</h4>
+                        </button>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="tab-content w-100">
+
+                        <div class="tab-pane fade show active" id="tab-pane-1">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                <img class="img-fluid" src="assets/img/s1.png" alt="">
+                                    <h4 class="my-3">Offline and Online Marketing</h4>
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane fade " id="tab-pane-2">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                <img class="img-fluid" src="assets/img/s2.png" >
+                                    <h4 class="my-3">Customer Acquisition</h4>
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane fade " id="tab-pane-3">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                <img class="img-fluid" src="assets/img/s3.png" >
+                                    <h4 class="my-3">Offline Branding</h4>
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane fade " id="tab-pane-4">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                <img class="img-fluid" src="assets/img/s4.png" >
+                                    <h4 class="my-3">Brand Awareness</h4>
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane fade " id="tab-pane-5">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                <img class="img-fluid" src="assets/img/s5.png" >
+                                    <h4 class="my-3">Lead Generation</h4>
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        
+                        
+                    </div>
+                </div>
+            </div>
+            <!-- left align -->
+
+            <!-- right align -->
+
+            
+            <div class="row g-4 wow fadeInUp mt-3" data-wow-delay="0.5s">
+                
+                <div class="col-lg-7">
+                    <div class="tab-content w-100">
+
+                        <div class="tab-pane fade show active" id="tab-pane-6">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                <img class="img-fluid" src="assets/img/s6.png" >
+                                    <h4 class="my-3">Data Management</h4>
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane fade " id="tab-pane-7">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                <img class="img-fluid" src="assets/img/s7.png" >
+                                    <h4 class="my-3">Market Research</h4>
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane fade " id="tab-pane-8">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                <img class="img-fluid" src="assets/img/s8.png" >
+                                    <h4 class="my-3">Audit and Surveys</h4>
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane fade " id="tab-pane-9">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                <img class="img-fluid" src="assets/img/s9.png" >
+                                    <h4 class="my-3">Tele Marketing</h4>
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane fade " id="tab-pane-10">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                <img class="img-fluid" src="assets/img/s10.png" >
+                                    <h4 class="my-3">Background Verification</h4>
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        
+                        
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="nav nav-pills d-flex justify-content-between ">
+                        <button class="nav-link w-100 d-flex align-items-center text-start newcolor p-4 mb-4 active" data-bs-toggle="pill" data-bs-target="#tab-pane-6" type="button" >
+                            <h4 class="m-0">06. Data Management</h4>
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-7" type="button">
+                            <h4 class="m-0">07. Market Research</h4>
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-8" type="button">
+                            <h4 class="m-0">08. Audit and Surveys</h4>
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-9" type="button">
+                            <h4 class="m-0">09. Tele Marketing</h4>
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-0" data-bs-toggle="pill" data-bs-target="#tab-pane-10" type="button">
+                            <h4 class="m-0">10. Background Verification</h4>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            
+            <!-- right align -->
+
+
+
+            </div>
+        </div>
+
+
+
+
+<!-- service end -->
+
+
+
     <!-- Project Start -->
-    <div class="container-xxl py-5">
+    <!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h6 class="section-title bg-white text-center maincolor px-3">Our Services</h6>
@@ -428,7 +619,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Project End -->
 
 
@@ -471,7 +662,7 @@
 
 
     <!-- Testimonial Start -->
-    <div class="container-xxl py-5">
+    <div class="container-xxl ">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h6 class="section-title bg-white text-center maincolor px-3">Clients</h6>
