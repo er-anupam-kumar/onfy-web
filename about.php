@@ -2,9 +2,9 @@
 
 
  <!-- Page Header Start -->
- <div class="container-fluid page-header py-4 mb-5 wow fadeIn" data-wow-delay="0.1s">
+<div class="container-fluid page-header py-5 mb-3 wow fadeIn" data-wow-delay="0.1s">
         <div class="container text-center py-5">
-            <h1 class=" text-white animated slideInDown mb-3" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">About Us</h1>
+            <h1 class=" text-white animated slideInDown mb-3"style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">Who We Are</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                
             </nav>
@@ -56,10 +56,10 @@
                                 <div class="skill">
                                     <div class="d-flex justify-content-between">
                                         <p class="mb-2">Tasks compelition</p>
-                                        <p class="mb-2">99%</p>
+                                        <p class="mb-2">95%</p>
                                     </div>
                                     <div class="progress">
-                                        <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100"></div>
+                                        <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
                                 </div>
                             </div>
@@ -88,7 +88,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="col-lg-6 wow fadeInUp text-end" data-wow-delay="0.5s">
                    
                         <img class="img-fluid" src="assets/img/abm2.png" alt="">
                    
@@ -104,7 +104,7 @@
  <div class="container-xxl py-4">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h6 class="section-title bg-white text-center text-primary px-3">About Us</h6>
+                <h6 class="section-title bg-white text-center text-primary px-3">Team</h6>
                 <h2 class="display-6 mb-4">We Changing the way of doing work</h2>
             </div>
             <div class="row g-4">
@@ -231,8 +231,8 @@
  <div class="container-xxl py-4">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h6 class="section-title bg-white text-center text-primary px-3">About Us</h6>
-                <h2 class="display-6 mb-4">A Digital platform</h2>
+                <h6 class="section-title bg-white text-center text-primary px-3">ONFY</h6>
+                <h2 class="display-6 mb-4">A Task Fulfilment Platform</h2>
             </div>
             <div class="row g-4">
                 <div class="col-lg-7  wow fadeInUp" data-wow-delay="0.1s">

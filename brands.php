@@ -3,7 +3,7 @@
 <!-- Page Header Start -->
 <div class="container-fluid page-header py-5 mb-3 wow fadeIn" data-wow-delay="0.1s">
         <div class="container text-center py-5">
-            <h1 class=" text-white animated slideInDown mb-3" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">Brands</h1>
+            <h1 class=" text-white animated slideInDown mb-3" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">Give your assignment </h1>
             <nav aria-label="breadcrumb animated slideInDown">
                
             </nav>
@@ -18,7 +18,7 @@
     <div class="container-xxl py-3">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h6 class="section-title bg-white text-center text-primary px-3">Who we are</h6>
+                <h6 class="section-title bg-white text-center text-primary px-3">We are</h6>
                 <h2 class="display-6 mb-4">A Task Fulfilment Platform</h2>
             </div>
             
@@ -126,27 +126,27 @@
             </div>
             </div>
             <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.3s" >
-                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
+                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
                 <img src="assets/img/bw2.png" style="height: 300px;" alt="">
                 </div>
             </div>
             <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.5s" >
-                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
+                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
                 <img src="assets/img/bw4.png" style="height: 300px;" alt="">
                 </div>
             </div>
             <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
-                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
+                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
                 <img src="assets/img/bw5.png" style="height: 300px;" alt="">
                 </div>
             </div>
             <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
-                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
+                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
                 <img src="assets/img/bw3.png" style="height: 300px;" alt="">
                 </div>
             </div>
             <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
-                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
+                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
                 <img src="assets/img/bw6.png" style="height: 300px;" alt="">
                 </div>
             </div>

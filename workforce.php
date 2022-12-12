@@ -3,7 +3,7 @@
 <!-- Page Header Start -->
 <div class="container-fluid page-header py-5 mb-3 wow fadeIn" data-wow-delay="0.1s">
         <div class="container text-center py-5">
-            <h1 class=" text-white animated slideInDown mb-3"style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">Workforce</h1>
+            <h1 class=" text-white animated slideInDown mb-3"style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">Start your Freelancing Career</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                
             </nav>
@@ -41,7 +41,7 @@
 
 
             <div class="col-lg-6 mt-2 wow fadeInUp text-center" data-wow-delay="0.5s">
-                <img src="assets/img/Work And Earn.png"  class="img-fluid" alt="work from home">
+                <img src="assets/img/WorkAndEarn.gif"  class="img-fluid" alt="work from home">
             </div>
            
         </div>
