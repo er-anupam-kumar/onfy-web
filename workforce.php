@@ -5,217 +5,140 @@
         <div class="container text-center py-5">
             <h1 class=" text-white animated slideInDown mb-3"style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">Start your Freelancing Career</h1>
             <nav aria-label="breadcrumb animated slideInDown">
-               
             </nav>
         </div>
     </div>
-    <!-- Page Header End -->
+<!-- Page Header End -->
 
-
-    <!-- Mobile section Start -->
+<!-- Mobile section Start -->
     <div class="container-xxl py-3">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h6 class="section-title bg-white text-center text-primary px-3">ONFY</h6>
                 <h2 class="display-6 mb-4">Work And Earn</h2>
             </div>
-            
-
             <div class="container  mt-5">
-        <div class="row">
-        <div class="col-lg-6 text-center " style="margin-top: 100px;">
-                <h2 class="wow fadeInUp" data-wow-delay="0.3s">A Digital Office, <br> Where Everyone can do Work  and Earn.</h2>
-                <div class="row mt-5 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="col-lg-6 mt-3" style="margin-top: 3px;">
-                    <a href="https://play.google.com/store/apps/details?id=pro.onfy.app">
-                        <img  src="assets/img/googleplay.png"  style="height:80px; width:300px; " class="img-fluid gglandappst" alt="google play">
-                        </a>
+                <div class="row">
+                    <div class="col-lg-6 text-center " style="margin-top: 100px;">
+                        <h2 class="wow fadeInUp" data-wow-delay="0.3s">A Digital Office, <br> Where Everyone can do Work  and Earn.</h2>
+                        <div class="row mt-5 wow fadeInUp" data-wow-delay="0.5s">
+                            <div class="col-lg-6 mt-3" style="margin-top: 3px;">
+                            <a href="https://play.google.com/store/apps/details?id=pro.onfy.app">
+                                <img  src="assets/img/googleplay.png"  style="height:80px; width:300px; " class="img-fluid gglandappst" alt="google play">
+                                </a>
+                            </div>
+                            <div class="col-lg-6 mt-3">
+                                <a href="comingsoon.php">
+                                <img src="assets/img/appstore.png" style="height:84px; width:300px; " class="img-fluid gglandappst" alt="app store">
+                                </a>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-lg-6 mt-3">
-                        <a href="comingsoon.php">
-                        <img src="assets/img/appstore.png" style="height:84px; width:300px; " class="img-fluid gglandappst" alt="app store">
-                        </a>
+                    <div class="col-lg-6 mt-2 wow fadeInUp text-center" data-wow-delay="0.5s">
+                        <img src="assets/img/WorkAndEarn.gif"  class="img-fluid" alt="work from home">
                     </div>
                 </div>
             </div>
-
-
-            <div class="col-lg-6 mt-2 wow fadeInUp text-center" data-wow-delay="0.5s">
-                <img src="assets/img/WorkAndEarn.gif"  class="img-fluid" alt="work from home">
-            </div>
-           
         </div>
     </div>
+<!-- Mobile section End -->
 
-
-        </div>
-    </div>
-    <!-- Mobile section End -->
-
-
-    <!-- Tasks Start -->
+<!-- Tasks Start -->
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h6 class="section-title bg-white text-center text-primary px-3">Work</h6>
                 <h2 class="display-6 mb-4">Task From Areas Of</h2>
             </div>
-
-
             <div class="container text-center  mt-5">
-
-
-            <div class="row">
-                <div class="col-lg-4 mt-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="work" >
-                        <img src="assets/img/wta1.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-
-                <div class="col-lg-4 mt-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="work" >
-                        <img src="assets/img/wta2.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-                
-                <div class="col-lg-4 mt-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="work" >
-                        <img src="assets/img/wta3.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-                
-                <div class="col-lg-4 mt-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="work" >
-                        <img src="assets/img/wta4.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-              
-                <div class="col-lg-4 mt-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="work" >
-                        <img src="assets/img/wta5.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-               
-                <div class="col-lg-4 mt-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="work" >
-                        <img src="assets/img/wta6.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-            </div>
-
-
-
-
-
-
-
-
-        <!-- <div class="row">
-        <div class="col-lg-6 text-center " >
                 <div class="row">
-                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                        <img src="assets/img/icon2.png"  class="img-fluid m-3 " alt="Marketing" >
-                         <span style="font-size:larger; font-weight: bold; " class="text-dark">Marketing</span>
+                    <div class="col-lg-4 mt-5 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="work" >
+                            <img src="assets/img/wta1.png" class="img-fluid" alt="">
+                        </div>
                     </div>
-                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.2s">
-                        <img src="assets/img/icon1.png" class="img-fluid m-3" alt="Tele Marketing">
-                        <span style="font-size:larger; font-weight: bold; " class="text-dark">Tele Marketing
-                        </span>
+
+                    <div class="col-lg-4 mt-5 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="work" >
+                            <img src="assets/img/wta2.png" class="img-fluid" alt="">
+                        </div>
                     </div>
-                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.3s">
-                        <img src="assets/img/icon3.png" class="img-fluid m-3" alt="Lead Generation">
-                        <span style="font-size:larger; font-weight: bold; " class="text-dark">Lead Generation</span>
+                    
+                    <div class="col-lg-4 mt-5 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="work" >
+                            <img src="assets/img/wta3.png" class="img-fluid" alt="">
+                        </div>
                     </div>
-                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.4s">
-                        <img src="assets/img/icon4.png" class="img-fluid m-3" alt="Data Management">
-                        <span style="font-size:larger; font-weight: bold; " class="text-dark">Data Management</span>
+                    
+                    <div class="col-lg-4 mt-5 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="work" >
+                            <img src="assets/img/wta4.png" class="img-fluid" alt="">
+                        </div>
                     </div>
-                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.5s">
-                        <img src="assets/img/icon5.png" class="img-fluid m-3" alt="Field Activity">
-                        <span style="font-size:larger; font-weight: bold; " class="text-dark">Field Activity</span>
+                
+                    <div class="col-lg-4 mt-5 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="work" >
+                            <img src="assets/img/wta5.png" class="img-fluid" alt="">
+                        </div>
                     </div>
-                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.6s">
-                        <img src="assets/img/icon6.png" class="img-fluid m-3" alt="Verification">
-                        <span style="font-size:larger; font-weight: bold; " class="text-dark">Background Verification</span>
+                
+                    <div class="col-lg-4 mt-5 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="work" >
+                            <img src="assets/img/wta6.png" class="img-fluid" alt="">
+                        </div>
                     </div>
                 </div>
-            </div>
-
-
-            <div class="col-lg-6 mt-3 wow fadeInUp" data-wow-delay="0.5s">
-                <img src="assets/img/ab3.png"  class="img-fluid" alt="part time job">
-            </div>
-           
-        </div> -->
-    </div>
-
-
-            
+            </div>   
         </div>
     </div>
-    <!-- Tasks End -->
+<!-- Tasks End -->
 
-
-
-
-    <!-- work procedure start -->
-
+<!-- work procedure start -->
     <div class="container-xxl py-4">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h6 class="section-title bg-white text-center text-primary px-3">Working Process</h6>
                 <h2 class="display-6 mb-4">How things roll out at ONFY</h2>
             </div>
-
-
             <div class="container text-center mt-1">
-            <div class="row">
-        
-        <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.1s" >
-            <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
-            <img src="assets/img/wp1.png" style="height: 300px;" alt="">
-            
-        </div>
-        </div>
-        <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.3s" >
-            <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
-            <img src="assets/img/wp2.png" style="height: 300px;" alt="">
-            </div>
-        </div>
-        <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.5s" >
-            <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
-            <img src="assets/img/wp3.png" style="height: 300px;" alt="">
-            </div>
-        </div>
-        <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
-            <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
-            <img src="assets/img/wp4.png" style="height: 300px;" alt="">
-            </div>
-        </div>
-        <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
-            <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
-            <img src="assets/img/wp5.png" style="height: 300px;" alt="">
-            </div>
-        </div>
-        <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
-            <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
-            <img src="assets/img/wp6.png" style="height: 300px;" alt="">
-            </div>
-        </div>
-
-       
-       
-    </div>
-    </div>
-
-
-            
+                <div class="row">
+                    <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.1s" >
+                        <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
+                        <img src="assets/img/wp1.png" style="height: 300px;" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.3s" >
+                        <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
+                        <img src="assets/img/wp2.png" style="height: 300px;" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.5s" >
+                        <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
+                        <img src="assets/img/wp3.png" style="height: 300px;" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
+                        <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
+                        <img src="assets/img/wp4.png" style="height: 300px;" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
+                        <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
+                        <img src="assets/img/wp5.png" style="height: 300px;" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
+                        <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;  ">
+                        <img src="assets/img/wp6.png" style="height: 300px;" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>   
         </div>
     </div>
+<!-- work procedure end -->
 
-    <!-- work procedure end -->
-
- <!-- Testimonial Start -->
+<!-- Testimonial Start -->
  <div class="container-xxl py-4">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
@@ -266,11 +189,10 @@
             </div>
         </div>
     </div>
-    <!-- Testimonial End -->
+<!-- Testimonial End -->
 
-
-        <!-- Facts Start -->
-        <div class="container-xxl pt-4">
+<!-- Facts Start -->
+    <div class="container-xxl pt-4">
         <div class="container">
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -304,10 +226,6 @@
             </div>
         </div>
     </div>
-    <!-- Facts End -->
-
-
-
-
+<!-- Facts End -->
 
 <?php require("footer.php"); ?>

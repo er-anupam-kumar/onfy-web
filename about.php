@@ -1,8 +1,7 @@
 <?php require("header.php"); ?>
 
-
- <!-- Page Header Start -->
-<div class="container-fluid page-header py-5 mb-3 wow fadeIn" data-wow-delay="0.1s">
+<!-- Page Header Start -->
+    <div class="container-fluid page-header py-5 mb-3 wow fadeIn" data-wow-delay="0.1s">
         <div class="container text-center py-5">
             <h1 class=" text-white animated slideInDown mb-3"style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">Who We Are</h1>
             <nav aria-label="breadcrumb animated slideInDown">
@@ -10,39 +9,28 @@
             </nav>
         </div>
     </div>
-    <!-- Page Header End -->
+<!-- Page Header End -->
 
-
-
-
-
-     <!-- About Start -->
+<!-- About Start -->
      <div class="container-xxl py-4">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                   
                         <img class="img-fluid" src="assets/img/abm1.png" alt="">
-                    
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="h-100">
                         <h6 class="section-title bg-white text-start text-primary pe-3">About Us</h6>
                         <h2 class="display-6 mb-4">We Are A Task Fulfilment <span class="text-primary">Platform</span></h2>
                         <p> ONFY INNOVATIONS PVT LTD. is our company Established in the year 2021,we have earned a significant place for ourselves in the market as a prominent peroformer in the field of Task Fulfilment Platform. All our services are getting widely acclaimed among the large clientele for their exclusive peformance and timely compelition of every task in very cost effective manner. Owing to the meticulous efforts of our workforce and the latest facilities, we have garnered a huge client base across the market. Today with the Moto of providing every kind of services to brands with extreme satisfaction is the top priority of the company which is the key to success in future. </p>
-                       
-                      
-                        
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- About End -->
+<!-- About End -->
 
-
-    
-    <!-- Feature Start -->
+<!-- Feature Start -->
     <div class="container-xxl py-4">
         <div class="container">
             <div class="row g-5">
@@ -89,18 +77,14 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeInUp text-end" data-wow-delay="0.5s">
-                   
-                        <img class="img-fluid" src="assets/img/abm2.png" alt="">
-                   
+                    <img class="img-fluid" src="assets/img/abm2.png" alt="">
                 </div>
             </div>
         </div>
     </div>
-    <!-- Feature End -->
-
-
-       
- <!-- Team 1 Start -->
+<!-- Feature End -->
+    
+<!-- Team 1 Start -->
  <div class="container-xxl py-4">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
@@ -119,7 +103,6 @@
                             <div class="team-social">
                                 <a class="btn btn-square btn-primary rounded-circle" href=""><i class="fab fa-linkedin"></i></a>
                                 <a class="btn btn-square btn-primary rounded-circle" href=""><i class="far fa-envelope"></i></a>
-                                
                             </div>
                         </div>
                     </div>
@@ -135,7 +118,6 @@
                             <div class="team-social">
                                 <a class="btn btn-square btn-primary rounded-circle" href=""><i class="fab fa-linkedin"></i></a>
                                 <a class="btn btn-square btn-primary rounded-circle" href=""><i class="far fa-envelope"></i></a>
-                                
                             </div>
                         </div>
                     </div>
@@ -151,20 +133,16 @@
                             <div class="team-social">
                                 <a class="btn btn-square btn-primary rounded-circle" href=""><i class="fab fa-linkedin"></i></a>
                                 <a class="btn btn-square btn-primary rounded-circle" href=""><i class="far fa-envelope"></i></a>
-                                
                             </div>
                         </div>
                     </div>
                 </div>
-                
-              
-                
             </div>
         </div>
     </div>
-    <!-- Team 1 End -->
+<!-- Team 1 End -->
 
-     <!-- Team 2 Start -->
+<!-- Team 2 Start -->
  <div class="container-xxl py-4">
         <div class="container">
             <div class="row g-4">
@@ -179,7 +157,6 @@
                             <div class="team-social">
                                 <a class="btn btn-square btn-primary rounded-circle" href=""><i class="fab fa-linkedin"></i></a>
                                 <a class="btn btn-square btn-primary rounded-circle" href=""><i class="far fa-envelope"></i></a>
-                                
                             </div>
                         </div>
                     </div>
@@ -195,7 +172,6 @@
                             <div class="team-social">
                                 <a class="btn btn-square btn-primary rounded-circle" href=""><i class="fab fa-linkedin"></i></a>
                                 <a class="btn btn-square btn-primary rounded-circle" href=""><i class="far fa-envelope"></i></a>
-                                
                             </div>
                         </div>
                     </div>
@@ -211,23 +187,16 @@
                             <div class="team-social">
                                 <a class="btn btn-square btn-primary rounded-circle" href=""><i class="fab fa-linkedin"></i></a>
                                 <a class="btn btn-square btn-primary rounded-circle" href=""><i class="far fa-envelope"></i></a>
-                                
                             </div>
                         </div>
                     </div>
                 </div>
-                
-              
-                
             </div>
         </div>
     </div>
-    <!-- Team 2 End -->
+<!-- Team 2 End -->
 
-
-
-
- <!-- About us 2 start -->
+<!-- About us 2 start -->
  <div class="container-xxl py-4">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
@@ -247,27 +216,9 @@
                 <h6 class="section-title bg-white text-start text-primary  pe-3">Our vision</h6>
                 <p>We are aiming for the generation of ample employment opportunities through the collaboration of brands, and a skilled workforce by creating a trusted network.</p>
                 </div>
-                
-              
-                
             </div>
         </div>
     </div>
-    <!-- About us 2 end -->
+<!-- About us 2 end -->
 
-
-
-
-
-
-
-
- 
-
-
-   
-
-
-   
-
-    <?php require("footer.php"); ?>
+<?php require("footer.php"); ?>

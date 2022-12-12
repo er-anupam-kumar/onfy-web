@@ -1,7 +1,7 @@
 <?php require("header.php"); ?>
 
 <!-- Page Header Start -->
-<div class="container-fluid page-header py-5 mb-3 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container-fluid page-header py-5 mb-3 wow fadeIn" data-wow-delay="0.1s">
         <div class="container text-center py-5">
             <h1 class=" text-white animated slideInDown mb-3" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">Give your assignment </h1>
             <nav aria-label="breadcrumb animated slideInDown">
@@ -9,58 +9,46 @@
             </nav>
         </div>
     </div>
-    <!-- Page Header End -->
+<!-- Page Header End -->
 
-    
-
-
-    <!-- Mobile section Start -->
+<!-- Mobile section Start -->
     <div class="container-xxl py-3">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h6 class="section-title bg-white text-center text-primary px-3">We are</h6>
                 <h2 class="display-6 mb-4">A Task Fulfilment Platform</h2>
             </div>
-            
-
-            <div class="container">
-        <div class="row">
-        <div class="col-lg-6 text-center " style="margin-top: 100px;">
-                <h2 class="wow fadeInUp" data-wow-delay="0.3s">Companies can fulfill their challenging assignments</h2>
-                <div class="row mt-5 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="col-lg-12">
-                    <a class="btn btn-info rounded-pill py-3 px-5 text-white" target="_blank" href="https://onfy.in/signup/brands" >Lets Talk</a>
+        <div class="container">
+            <div class="row">
+            <div class="col-lg-6 text-center " style="margin-top: 100px;">
+                    <h2 class="wow fadeInUp" data-wow-delay="0.3s">Companies can fulfill their challenging assignments</h2>
+                    <div class="row mt-5 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="col-lg-12">
+                        <a class="btn btn-info rounded-pill py-3 px-5 text-white" target="_blank" href="https://onfy.in/signup/brands" >Lets Talk</a>
+                        </div>
                     </div>
                 </div>
+                <div class="col-lg-6 mt-3 wow fadeInUp" data-wow-delay="0.5s">
+                    <img src="assets/img/brandsm1.png"  class="img-fluid" alt="work from home">
+                </div>
             </div>
-            <div class="col-lg-6 mt-3 wow fadeInUp" data-wow-delay="0.5s">
-                <img src="assets/img/brandsm1.png"  class="img-fluid" alt="work from home">
-            </div>
-           
+        </div>
         </div>
     </div>
+<!-- Mobile section End -->
 
-
-        </div>
-    </div>
-    <!-- Mobile section End -->
-
-
-    <!-- Tasks Start -->
+<!-- Tasks Start -->
     <div class="container-xxl py-4">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h6 class="section-title bg-white text-center text-primary px-3">Growth</h6>
                 <h5 class=" mb-4">We save you from the hassle of finding and managing the taskforce by getting all of it done for you. Be it manpower management or handling day-to-day operations, we got you covered.</h5>
             </div>
-
-
             <div class="container  mt-5">
         <div class="row">
         <div class="col-lg-6 mt-3 wow fadeInUp" data-wow-delay="0.5s">
                 <img src="assets/img/abb1.png"  class="img-fluid" alt="part time job">
-            </div>
-            
+            </div> 
         <div class="col-lg-6 " >
                 <div class="row">
                     <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
@@ -90,81 +78,58 @@
                     </div>
                 </div>
             </div>
-
-
-           
-           
         </div>
-    </div>
-
-
-            
+    </div>   
         </div>
     </div>
     <!-- Tasks End -->
 
-
-
-
     <!-- work procedure start -->
-
     <div class="container-xxl py-4">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h6 class="section-title bg-white text-center text-primary px-3">Working Process</h6>
                 <h2 class="display-6 mb-4">How things roll out at ONFY</h2>
             </div>
-
-
             <div class="container text-center mt-1">
-        <div class="row">
-        
-            <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.1s" >
-                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
-                <img src="assets/img/bw1.png" style="height: 300px;" alt="">
-                
-            </div>
-            </div>
-            <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.3s" >
-                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
-                <img src="assets/img/bw2.png" style="height: 300px;" alt="">
+                <div class="row">
+                    <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.1s" >
+                        <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
+                        <img src="assets/img/bw1.png" style="height: 300px;" alt="">
+                    </div>
+                    </div>
+                    <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.3s" >
+                        <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
+                        <img src="assets/img/bw2.png" style="height: 300px;" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.5s" >
+                        <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
+                        <img src="assets/img/bw4.png" style="height: 300px;" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
+                        <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
+                        <img src="assets/img/bw5.png" style="height: 300px;" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
+                        <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
+                        <img src="assets/img/bw3.png" style="height: 300px;" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
+                        <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
+                        <img src="assets/img/bw6.png" style="height: 300px;" alt="">
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.5s" >
-                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
-                <img src="assets/img/bw4.png" style="height: 300px;" alt="">
-                </div>
-            </div>
-            <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
-                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
-                <img src="assets/img/bw5.png" style="height: 300px;" alt="">
-                </div>
-            </div>
-            <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
-                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
-                <img src="assets/img/bw3.png" style="height: 300px;" alt="">
-                </div>
-            </div>
-            <div class="col-lg-4 mt-4 wow fadeInUp" data-wow-delay="0.7s" >
-                <div class="work" style="border: 1px solid white ; border-radius: 10px; box-shadow: 0px 0px 10px grey;">
-                <img src="assets/img/bw6.png" style="height: 300px;" alt="">
-                </div>
-            </div>
-
-           
-           
+            </div>   
         </div>
     </div>
+<!-- work procedure end -->
 
-
-            
-        </div>
-    </div>
-
-    <!-- work procedure end -->
-
-
- <!-- Testimonial Start -->
+<!-- Testimonial Start -->
  <div class="container-xxl py-4">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
@@ -215,13 +180,10 @@
             </div>
         </div>
     </div>
-    <!-- Testimonial End -->
+<!-- Testimonial End -->
 
-
-
-
-        <!-- Facts Start -->
-        <div class="container-xxl pt-4">
+<!-- Facts Start -->
+    <div class="container-xxl pt-4">
         <div class="container">
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -255,11 +217,6 @@
             </div>
         </div>
     </div>
-    <!-- Facts End -->
-
-
-
-
-
+<!-- Facts End -->
 
 <?php require("footer.php"); ?>
