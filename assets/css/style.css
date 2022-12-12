@@ -202,6 +202,9 @@
 
 
 /*** Section Title ***/
+
+
+
 .section-title {
     position: relative;
     display: inline-block;
@@ -488,9 +491,17 @@
 }
 
 .footer .btn.btn-link:hover {
-    color:#009CFF;
+    color: var(--primary);
     letter-spacing: 1px;
     box-shadow: none;
+}
+
+.footer a{
+    color: var(--light);
+}
+
+.footer a:hover{
+    color: var(--primary);
 }
 
 .footer .copyright {
@@ -504,7 +515,7 @@
 }
 
 .footer .copyright a:hover {
-    color: #009CFF;
+    color: var(--primary);
 }
 
 /*** Project ***/
@@ -514,7 +525,9 @@
 }
 
 .project2 .nav .nav-link.active {
-    background: var(--primary);
+    background: rgb(0,232,255);
+    background: linear-gradient(90deg, rgba(60,196,204,1) 0%, rgba(85,180,255,0.9864320728291317) 35%, rgba(60,196,204,1) 100%);
+
 }
 
 .project2 .nav .nav-link.active h3 {

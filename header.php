@@ -40,12 +40,12 @@
 
 
     <!-- Brand & Contact Start -->
-    <div class="container-fluid  px-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container-fluid  px-5 py-3 wow fadeIn" data-wow-delay="0.1s">
         <div class="row align-items-center top-bar">
             <div class="col-lg-4 col-md-12 text-center text-lg-start mt-1 mb-1">
                 <a href="" class="navbar-brand m-0 p-0">
                     
-                    <img src="assets/img/ONFY-Logo (1).png" style="height: 80px;" alt="ONFY Logo" >
+                    <img src="assets/img/ONFY-Logo (1).png" style="height: 55px;" alt="ONFY Logo" >
                 </a>
             </div>
             <div class="col-lg-8 col-md-7 d-none d-lg-block">
@@ -96,7 +96,7 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav me-auto py-3 p-lg-0">
                 <a href="index.php" class="nav-item nav-link active">Home</a>
-                <a href="workforce.php" class="nav-item nav-link">WorkForce</a>
+                <a href="workforce.php" class="nav-item nav-link">Workforce</a>
                 
                 <!-- <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Products</a>

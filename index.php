@@ -20,8 +20,8 @@
                     <img class="w-100" src="assets/img/slider1ani.png" alt="Welcome to ONFY">
                     <div class="carousel-caption">
                         <div class="p-3" style="max-width: 900px;">
-                            <h4 class="text-white text-uppercase mb-0 animated zoomIn">Welcome To </h4>
-                            <h1 class=" text-white mb-0 animated zoomIn" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">ONFY</h1>
+                            <h4 class="text-white text-uppercase mb-4 animated zoomIn">Welcome To </h4>
+                            <h1 class=" text-white text-uppercase mb-4 animated zoomIn" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">ONFY</h1>
                             <h4 class="text-white text-uppercase mb-4 animated zoomIn">We Are A Task Fulfilment Platform </h4>
                         </div>
                     </div>
@@ -31,8 +31,9 @@
                     <div class="carousel-caption">
                         <div class="p-3" style="max-width: 900px;">
                             
-                            
-                            <h2 class="text-white  mb-4 animated zoomIn">Bridging the gap between Workforce and Companies</h2>
+                            <h4 class="text-white text-uppercase mb-4 animated zoomIn">Bridging the gap </h4>
+                            <h1 class="text-white text-uppercase mb-4 animated zoomIn" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;"> Between </h1>
+                            <h4 class="text-white text-uppercase mb-4 animated zoomIn">Workforce and Companies</h4>
                         </div>
                     </div>
                 </div>
@@ -41,7 +42,8 @@
                     <div class="carousel-caption">
                         <div class="p-3" style="max-width: 900px;">
                             <h4 class="text-white text-uppercase mb-4 animated zoomIn">Work from</h4>
-                            <h2 class="text-white text-uppercase mb-4 animated zoomIn"> Anywhere, Anytime, and Earn as much as you want</h2>
+                            <h1 class="text-white text-uppercase mb-4 animated zoomIn" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;"> Anywhere, Anytime </h1>
+                            <h4 class="text-white text-uppercase mb-4 animated zoomIn">And Earn as much as you want</h4>
                         </div>
                     </div>
                 </div>
@@ -79,26 +81,27 @@
                         <h2 class="display-6 mb-4">A Task Fulfilment <span class="maincolor">Platform</span></h2>
                             <div class="row">
                                 <div class="col-lg-6">
-                                    <div class="text-center">
-                                <a class="btn btn-info rounded-pill py-3 px-5 text-white" >Get Work</a>
-                                </div>
-                                <ul style="margin-top: 10px;">
+                                <ul class="mt-2">
                                     <li>Freelance Tasks from Renowned brands.</li>
                                     <li>Work from Anywhere, Anytime, and Earn as much as you want.</li>
                                     <li>Work validation and Payment on 24 hours frequency.</li>
                                     <li>Digital Office for Work.</li>
                                 </ul>
+                                <div class="text-center mt-4">
+                                <a class="btn btn-info rounded-pill py-2  px-5 text-white " >Get Work</a>
+                                </div>
                                 </div>
                                 <div class="col-lg-6">
-                                <div class="text-center">
-                                <a class="btn btn-info rounded-pill py-3 px-5 text-white " >Get Workforce</a>
-                                </div>
-                                <ul style="margin-top: 10px;">
+                               
+                                <ul class="mt-2">
                                     <li>More than 50K+ Skilled Workforce.</li>
                                     <li>We can do activities in more than 500+ cities and towns.</li>
                                     <li>The costing is completely based on the per unit of performance.</li>
                                     <li>Dashboard for Live Performance Tracking.</li>
                                 </ul>
+                                <div class="text-center mt-4">
+                                <a class="btn btn-info rounded-pill py-2 px-5 text-white " >Get Workforce</a>
+                                </div>
                                     </div>
                             </div>
                        
@@ -239,7 +242,7 @@
 
 
 
-    <div class="container-xxl py-3">
+    <div class="container-xxl py-5">
         <div class="container">
 
 

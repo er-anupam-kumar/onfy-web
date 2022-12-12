@@ -5,11 +5,7 @@
         <div class="container text-center py-5">
             <h1 class=" text-white animated slideInDown mb-3"style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:60px;">Workforce</h1>
             <nav aria-label="breadcrumb animated slideInDown">
-                <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                 
-                    <li class="breadcrumb-item text-primary active" aria-current="page">Workforce</li>
-                </ol>
+               
             </nav>
         </div>
     </div>
@@ -58,7 +54,7 @@
 
 
     <!-- Tasks Start -->
-    <div class="container-xxl py-4">
+    <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <h6 class="section-title bg-white text-center text-primary px-3">Work</h6>
@@ -231,11 +227,11 @@
                     <div class="d-flex align-items-center mb-4">
                         <img class="flex-shrink-0 rounded-circle border p-1" src="assets/img/test1.png" alt="">
                         <div class="ms-4">
-                            <h5 class="mb-1">Client Name</h5>
-                            <span>Profession</span>
+                            <h5 class="mb-1">Manish Kumar</h5>
+                            <span>Freelancer</span>
                         </div>
                     </div>
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-0">I am working part-time at ONFY just from last month, but it has been a great experience. Any issue was resolved by the support team as fast as possible.Over all i am enjoying this journey with ONFY and earning money from it easily</p>
                 </div>
                 <div class="testimonial-item bg-light rounded p-4">
                     <div class="d-flex align-items-center mb-4">
